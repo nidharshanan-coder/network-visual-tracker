@@ -1,0 +1,6 @@
+streamlit
+dpkt
+pandas
+geoip2
+hashlib
+pathlib

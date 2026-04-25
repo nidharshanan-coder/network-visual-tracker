@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+env/
+
+# OS files
+.DS_Store
+
+# Generated files
+*.kml
