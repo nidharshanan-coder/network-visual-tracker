@@ -16,7 +16,7 @@ A cybersecurity tool that analyzes PCAP files and visualizes network connections
 - Pandas
 
 # Architecture diagram
-<img width="1024" height="1536" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/4d0f30e1-cef2-40a0-8269-9ced6a5437d0" />
+<img width="434" height="681" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/4d0f30e1-cef2-40a0-8269-9ced6a5437d0" />
 
 # Flow diagram
 <img width="434" height="681" alt="Flow Diagram" src="https://github.com/user-attachments/assets/86a31cc8-47cc-41b8-8ef4-929bde3dc93d" />
